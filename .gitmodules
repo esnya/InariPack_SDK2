@@ -1,0 +1,21 @@
+[submodule "vrc_starterkit"]
+	path = vrc_starterkit
+	url = https://gitlab.com/vrchat_projects_momoma/vrc_starterkit.git
+  ignore = dirty
+[submodule "VRWorldToolkit"]
+	path = VRWorldToolkit
+	url = https://github.com/oneVR/VRWorldToolkit.git
+[submodule "VRCHierarchyHighlighter"]
+	path = VRCHierarchyHighlighter
+	url = https://github.com/esnya/VRCHierarchyHighlighter.git
+	ignore = untracked
+[submodule "EsnyaUnityTools"]
+	path = EsnyaUnityTools
+	url = https://github.com/esnya/EsnyaUnityTools.git
+[submodule "InariBako"]
+	path = InariBako
+	url = https://github.com/esnya/InariBako.git
+[submodule "Editor/Unity-Resource-Checker"]
+	path = Editor/Unity-Resource-Checker
+	url = https://github.com/handcircus/Unity-Resource-Checker.git
+  ignore = untracked
