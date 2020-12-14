@@ -19,3 +19,14 @@
 	path = Editor/Unity-Resource-Checker
 	url = https://github.com/handcircus/Unity-Resource-Checker.git
   ignore = untracked
+[submodule "MomomaTools"]
+	path = MomomaTools
+	url = https://github.com/momoma-null/MomomaTools.git
+[submodule "CyanEmu"]
+	path = CyanEmu
+	url = https://github.com/CyanLaser/CyanEmu.git
+	ignore = untracked
+[submodule "VRC-Bakery-Adapter"]
+	path = VRC-Bakery-Adapter
+	url = https://github.com/MerlinVR/VRC-Bakery-Adapter.git
+	ignore = untracked
